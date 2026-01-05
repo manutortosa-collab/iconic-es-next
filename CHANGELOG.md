@@ -1,6 +1,9 @@
 Iconi-es-next:
 --------------
 
+# Beta 0.4 - Unreleases
+* Apply logo changes to detailed view (fix).
+
 # Beta 0.3
 * Custom collections and automatic collections got new logos with Spanish
   translations ones too and translated metadata.
@@ -10,7 +13,6 @@ Iconi-es-next:
 * Swapped backgrounds MAME <> Arcade.
 * Complete rework of the logos system to make it faster and simpler.
 * Complete rework of the Final Fantasy auto-collection.
-
 
 # Beta 0.2
 
