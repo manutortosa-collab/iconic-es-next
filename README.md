@@ -89,13 +89,11 @@ Custom overlays can be added to help make images pop.
 ### Multilanguage support
 
 * The UI has now full support for Spanish.
-* Systems metadata is being updated, many systems have already Spanish translation.
+* Systems metadata has been completelly translated to Spanish.
 * Spanish works with both "es" and "es MX" setting from Batocera.
 * The theme now allows specific language logos, as example for the "Library" you can have:
   library.svg, library-es.svg, library-fr.svg and so on,
   the theme will use your ES language setting to pick the correct logo or default if is not available.
-
-If you need to have translated fast an specific system just request it and i will push it asap.
 
 ## Acknowledgments
 
