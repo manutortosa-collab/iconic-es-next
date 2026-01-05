@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>Game &amp; Watch</systemName>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>1980</systemReleaseYear>
     <systemDescription>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
 
 The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.
 
 The series sold a combined of 43.4 million units worldwide.</systemDescription>
-    <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>1980</systemReleaseYear>
+    <systemDescription lang="es">La marca Game & Watch es una serie de videojuegos portátiles desarrollados, fabricados, lanzados y comercializados por Nintendo entre 1980 y 1991. Creado por el diseñador de juegos Gunpei Yokoi, el producto debe su nombre a que incluía un solo juego y un reloj en una pantalla LCD. Los modelos a partir de 1981 incluían además una alarma. Fue el primer videojuego de Nintendo en alcanzar un gran éxito.
+
+Las unidades se basan en una CPU de 4 bits, de la familia Sharp SM5xx, que incluye una pequeña área de ROM y RAM y un circuito controlador de pantalla LCD. Sin embargo, antes de su simulación en MAME, existía la idea errónea de que cada unidad utilizaba un ASIC personalizado en lugar de un microcontrolador propiamente dicho.
+
+La serie vendió un total de 43,4 millones de unidades en todo el mundo.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>112-67</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

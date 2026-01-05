@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Game Master</systemName>
+    <systemManufacturer>Hartung</systemManufacturer>
+    <systemReleaseYear>1990</systemReleaseYear>
     <systemDescription>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema. It was also sold a few under alternate names in France, including the Videojet Game Master as well as for a few released by Hartung as the Hartung Super Game and the Hartung Game Tronic. The Game Master has a 64x64 monochrome LCD screen.
 
 The design was much like the Game Gear with a D-Pad and two action buttons, although another variation, the Game Plus, features a more Game Boy-like design which is backed by a company called Caterpillar and was sold by Delplay in France. The cartridges resemble those used by the Watara Supervision, with the card edge of the cartridge jutted out past the plastic of the cartridge. The Game Master utilizes a 40-pin cartridge port like the Supervision but is not compatible with Supervision games.</systemDescription>
-    <systemManufacturer>Hartung</systemManufacturer>
-    <systemReleaseYear>1990</systemReleaseYear>
+    <systemDescription lang="es">La Game Master es una consola portátil fabricada por Hartung y diseñada para competir con la Nintendo Game Boy. En Alemania, fue comercializada por la propia Hartung, mientras que en el Reino Unido, Systema, fabricante de juegos LCD económicos, la lanzó como Systema 2000. También se vendió con nombres alternativos en Francia, como Videojet Game Master, así como con Hartung Super Game y Hartung Game Tronic. La Game Master tiene una pantalla LCD monocromática de 64x64.
+
+Su diseño era muy similar al de la Game Gear, con un pad direccional y dos botones de acción, aunque otra variante, la Game Plus, presenta un diseño más similar al de la Game Boy, patrocinada por Caterpillar y vendida por Delplay en Francia. Los cartuchos se parecen a los de Watara Supervision, con el borde de la tarjeta sobresaliendo del plástico. La Game Master utiliza un puerto de cartucho de 40 pines, al igual que la Supervision, pero no es compatible con los juegos de Supervision.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

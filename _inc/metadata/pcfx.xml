@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>PC-FX</systemName>
+    <systemManufacturer>NEC</systemManufacturer>
+    <systemReleaseYear>1994</systemReleaseYear>
     <systemDescription>The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.
 
 The console is shaped like a tower PC and was meant to be similarly upgradeable. However the PC-FX lacked a 3D polygon-based graphics chip which rendered the system underpowered in comparison to its competitors. It was also expensive and lacked developer support, and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC's last home video game console, and was discontinued in February 1998. It was considered a commercial failure.</systemDescription>
-    <systemManufacturer>NEC</systemManufacturer>
-    <systemReleaseYear>1994</systemReleaseYear>
+    <systemDescription lang="es">La PC-FX es una consola de videojuegos doméstica de 32 bits desarrollada por NEC y Hudson Soft, lanzada en Japón en 1994. Equipada con una CPU NEC V810 y con CD-ROM, la PC-FX fue concebida como la sucesora de la PC Engine y su homóloga internacional, la TurboGrafx-16, dos exitosas consolas de videojuegos de finales de los 80. Fue la última incursión de NEC en el mercado de las consolas domésticas.
+
+La consola tiene la forma de una PC de torre y se concibió para ofrecer actualizaciones similares. Sin embargo, la PC-FX carecía de un chip gráfico basado en polígonos 3D, lo que la hacía poco potente en comparación con sus competidores. Además, era cara y carecía de soporte para desarrolladores, por lo que no pudo competir eficazmente con sus homólogas de quinta generación. La PC-FX fue la última consola de videojuegos doméstica de NEC y se discontinuó en febrero de 1998. Se consideró un fracaso comercial.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

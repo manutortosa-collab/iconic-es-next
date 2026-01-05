@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>PC-98</systemName>
+    <systemManufacturer>NEC</systemManufacturer>
+    <systemReleaseYear>1982</systemReleaseYear>
     <systemDescription>The NEC PC-9800 was line of personal computers developed in 1982 in Japan by NEC Corporation based on IBM, aimed exclusively at the Japanese market.
 
 The first model was a 16-bit architecture with an Intel 8086 processor clocked at 5 MHz and 128 KB of RAM. It shipped with graphics cards capable of displaying 8 colors at 640x400 resolution - a clear performance differentiator compared to PCs of the time.
 
 Initially conceived as a solution for industrial and office applications, by 1987 the PC-9801 series captured nearly 90% of the Japanese personal computer market. Over time, as power increased and graphics and sound effects were appreciated by home users (especially gamers), it also became popular for non-commercial applications - the Touhou Project series, for example, made its debut.</systemDescription>
-    <systemManufacturer>NEC</systemManufacturer>
-    <systemReleaseYear>1982</systemReleaseYear>
+    <systemDescription lang="es">La NEC PC-9800 fue una línea de computadoras personales desarrollada en 1982 en Japón por NEC Corporation, con sede en IBM, dirigida exclusivamente al mercado japonés.
+
+El primer modelo tenía una arquitectura de 16 bits con un procesador Intel 8086 a 5 MHz y 128 KB de RAM. Incorporaba tarjetas gráficas capaces de mostrar 8 colores a una resolución de 640x400, un claro diferencial de rendimiento en comparación con las PC de la época.
+
+Concebida inicialmente como una solución para aplicaciones industriales y de oficina, para 1987 la serie PC-9801 ya dominaba casi el 90 % del mercado japonés de computadoras personales. Con el tiempo, a medida que aumentaba la potencia y los gráficos y los efectos de sonido eran apreciados por los usuarios domésticos (especialmente los gamers), también se popularizó para aplicaciones no comerciales; por ejemplo, la serie Touhou Project hizo su debut.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

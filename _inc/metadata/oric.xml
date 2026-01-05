@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Oric</systemName>
-    <systemDescription>Oric was the name used by UK-based Tangerine Computer Systems for a series of 6502-based home computers sold in the 1980s, primarily in Europe. With the success of the ZX Spectrum from Sinclair Research, Tangerine's backers suggested a home computer and Tangerine formed Oric Products International Ltd to develop the Oric-1. The computer was introduced in 1982.[5] During 1983, approximately 160,000 Oric-1 computers were sold in the UK, plus another 50,000 in France (where it was the year's top-selling machine). This resulted in Oric being acquired and given funding for a successor model, the 1984 Oric Atmos.</systemDescription>
     <systemManufacturer>Tangerine</systemManufacturer>
     <systemReleaseYear>1982</systemReleaseYear>
+    <systemDescription>Oric was the name used by UK-based Tangerine Computer Systems for a series of 6502-based home computers sold in the 1980s, primarily in Europe. With the success of the ZX Spectrum from Sinclair Research, Tangerine's backers suggested a home computer and Tangerine formed Oric Products International Ltd to develop the Oric-1. The computer was introduced in 1982.[5] During 1983, approximately 160,000 Oric-1 computers were sold in the UK, plus another 50,000 in France (where it was the year's top-selling machine). This resulted in Oric being acquired and given funding for a successor model, the 1984 Oric Atmos.</systemDescription>
+    <systemDescription lang="es">Oric era el nombre que Tangerine Computer Systems, con sede en el Reino Unido, utilizaba para una serie de ordenadores domésticos basados ​​en el procesador 6502, vendidos en la década de 1980, principalmente en Europa. Tras el éxito del ZX Spectrum de Sinclair Research, los patrocinadores de Tangerine propusieron un ordenador doméstico, y Tangerine fundó Oric Products International Ltd. para desarrollar el Oric-1. El ordenador se presentó en 1982.[5] Durante 1983, se vendieron aproximadamente 160.000 ordenadores Oric-1 en el Reino Unido, además de otros 50.000 en Francia (donde fue el equipo más vendido del año). Esto dio lugar a la adquisición de Oric y a la financiación de un modelo sucesor, el Oric Atmos de 1984.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

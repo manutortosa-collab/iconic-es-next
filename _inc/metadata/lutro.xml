@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Lutro</systemName>
-    <systemDescription>Lutro is a 2D game framework that aims for simplicity and extreme portability. Using lutro, you can develop any kind of 2D retro games, like NES or Genesis games, and run them on a wide range of platforms through RetroArch. Lutro makes it easy to write games by using Lua and following the LÖVE API. Portability is achieved through the libretro API: Lutro is just loaded as a plugin in a frontend like RetroArch which takes care of display, audio and inputs.</systemDescription>
     <systemManufacturer>libretro</systemManufacturer>
     <systemReleaseYear>2015</systemReleaseYear>
+    <systemDescription>Lutro is a 2D game framework that aims for simplicity and extreme portability. Using lutro, you can develop any kind of 2D retro games, like NES or Genesis games, and run them on a wide range of platforms through RetroArch. Lutro makes it easy to write games by using Lua and following the LÖVE API. Portability is achieved through the libretro API: Lutro is just loaded as a plugin in a frontend like RetroArch which takes care of display, audio and inputs.</systemDescription>
+    <systemDescription lang="es">Lutro es un framework de juegos 2D que busca la simplicidad y la portabilidad extrema. Con Lutro, puedes desarrollar cualquier tipo de juego retro 2D, como juegos de NES o Genesis, y ejecutarlos en una amplia gama de plataformas a través de RetroArch. Lutro facilita la creación de juegos mediante Lua y la API LÖVE. La portabilidad se consigue mediante la API de Libretro: Lutro se carga como un plugin en un frontend como RetroArch, que se encarga de la visualización, el audio y las entradas.</systemDescription>
     <systemHardwareType>Engine</systemHardwareType>
+    <systemHardwareType lang="es">Motor</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

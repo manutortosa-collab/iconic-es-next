@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>64DD</systemName>
-    <systemDescription>The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999. Only ten software titles were released until the unit was discontinued in February 2001. It was a commercial failure, with at least 15,000 total units sold and another 85,000 units unsold.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
     <systemReleaseYear>1999</systemReleaseYear>
+    <systemDescription>The 64DD, colloquially referred to as the Nintendo 64DD, is a magnetic disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was originally announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was finally released only in Japan on December 1, 1999. Only ten software titles were released until the unit was discontinued in February 2001. It was a commercial failure, with at least 15,000 total units sold and another 85,000 units unsold.</systemDescription>
+    <systemDescription lang="es">El 64DD, conocido coloquialmente como Nintendo 64DD, es un periférico de unidad de disco magnético para la consola Nintendo 64, desarrollado por Nintendo. Se anunció originalmente en 1995, antes del lanzamiento de la Nintendo 64 en 1996, y tras numerosos retrasos, finalmente se lanzó en Japón el 1 de diciembre de 1999. Solo se lanzaron diez juegos hasta que la unidad fue descontinuada en febrero de 2001. Fue un fracaso comercial, con al menos 15 000 unidades vendidas y otras 85 000 sin vender.</systemDescription>
     <systemHardwareType>Peripheral</systemHardwareType>
+    <systemHardwareType lang="es">Periférico</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>Vectrex</systemName>
+    <systemManufacturer>Smith Eng.</systemManufacturer>
+    <systemReleaseYear>1982</systemReleaseYear>
     <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
 
 The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
-    <systemManufacturer>Smith Eng.</systemManufacturer>
-    <systemReleaseYear>1982</systemReleaseYear>
+    <systemDescription lang="es">La Vectrex es una consola de videojuegos doméstica basada en pantalla vectorial, la única diseñada y lanzada para el mercado doméstico, desarrollada por Smith Engineering. Se lanzó inicialmente para el mercado norteamericano en noviembre de 1982 y posteriormente para Europa y Japón en 1983. Originalmente fabricada por General Consumer Electronics, fue licenciada a Milton Bradley tras la adquisición de la compañía. Bandai lanzó la consola en Japón.
+
+La Vectrex, a diferencia de otras consolas de videojuegos disponibles en ese momento, contaba con un monitor CRT monocromo integrado y no necesitaba conectarse a un televisor, ya que contaba con su propia pantalla integrada. Un panel de control con cable desmontable se montaba en la base inferior de la consola y se plegaba en ella. Los juegos incluían láminas de color translúcidas que se podían colocar sobre la pantalla monocromática. Se fabricaron varios periféricos, como unas gafas 3D conocidas como "3D Imager" y un lápiz óptico que permitía al jugador dibujar directamente en la pantalla. Se podía jugar un juego integrado, Mine Storm, sin insertar un cartucho.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

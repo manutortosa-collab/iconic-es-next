@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Intellivision</systemName>
-    <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
     <systemManufacturer>Mattel</systemManufacturer>
     <systemReleaseYear>1979</systemReleaseYear>
+    <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
+    <systemDescription lang="es">La Mattel Intellivision es una consola de videojuegos doméstica de segunda generación (1976-1992), desarrollada y distribuida por Mattel Electronics. Salió a la venta en el verano de 1979 en Norteamérica a un precio de 299 dólares. Posteriormente, se lanzó en Europa (1981), Sudamérica (1982) y Japón (1982). La Intellivision fue la primera consola doméstica en utilizar un tablero de juego basado en mosaicos y en ofrecer voces humanas en tiempo real durante el juego, gracias al módulo IntelliVoice. La consola se discontinuó a principios de 1990.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>135-172</systemCartSize>
   </variables>

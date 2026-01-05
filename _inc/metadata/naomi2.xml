@@ -1,11 +1,14 @@
 <theme>
   <variables>
     <systemName>Naomi 2</systemName>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>2000</systemReleaseYear>
     <systemDescription>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.
 
 The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU setup, new T&amp;L GPU, dual rasterizer GPU, increased memory, and faster bandwidth. This leads to games with much more polygons than a NAOMI game, rendered at much faster speeds, while the new T&amp;L GPU adds advanced lighting and particle effects. It was also more affordable than the very expensive (and difficult to program) Sega Hikaru arcade system that preceded it. The NAOMI 2 was nevertheless more powerful than home systems at the time.</systemDescription>
-    <systemManufacturer>Sega</systemManufacturer>
-    <systemReleaseYear>2000</systemReleaseYear>
+    <systemDescription lang="es">La Sega NAOMI 2 es una placa arcade desarrollada por Sega y sucesora del hardware Sega NAOMI. Se lanzó originalmente en el año 2000. Al utilizar una arquitectura NAOMI similar (pero considerablemente mejorada), es totalmente retrocompatible con su predecesora.
+
+La NAOMI 2 es significativamente más potente que la NAOMI, incluyendo una configuración de doble CPU, una nueva GPU T&L, una GPU con doble rasterizador, mayor memoria y un mayor ancho de banda. Esto permite juegos con muchos más polígonos que un juego NAOMI, renderizados a velocidades mucho mayores, mientras que la nueva GPU T&L añade iluminación avanzada y efectos de partículas. También era más asequible que el costoso (y difícil de programar) sistema arcade Sega Hikaru que la precedió. Sin embargo, la NAOMI 2 era más potente que los sistemas domésticos de la época.</systemDescription>
     <systemHardwareType>Arcade</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>

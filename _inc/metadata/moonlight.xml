@@ -1,10 +1,13 @@
 <theme>
   <variables>
     <systemName>Moonlight</systemName>
-    <systemDescription>Moonlight (formerly Limelight) is an open source implementation of NVIDIA's GameStream protocol. We implemented the protocol used by the NVIDIA Shield and wrote a set of 3rd party clients.  Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig.</systemDescription>
     <systemManufacturer>CWR University</systemManufacturer>
+    <systemManufacturer lang="es">Universidad CWR</systemManufacturer>
     <systemReleaseYear>2014</systemReleaseYear>
+    <systemDescription>Moonlight (formerly Limelight) is an open source implementation of NVIDIA's GameStream protocol. We implemented the protocol used by the NVIDIA Shield and wrote a set of 3rd party clients.  Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig.</systemDescription>
+    <systemDescription lang="es">Moonlight (anteriormente Limelight) es una implementación de código abierto del protocolo GameStream de NVIDIA. Implementamos el protocolo utilizado por NVIDIA Shield y desarrollamos un conjunto de clientes de terceros. Moonlight te permite jugar a tus juegos de PC en casi cualquier dispositivo, ya sea que estés en otra habitación o a kilómetros de tu equipo de juego.</systemDescription>
     <systemHardwareType>Folder</systemHardwareType>
+    <systemHardwareType lang="es">Carpeta</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Spectravideo</systemName>
-    <systemDescription>Spectravideo International Limited (SVI) was an American computer manufacturer and software house. It was originally called SpectraVision, a company founded by Harry Fox in 1981. The company produced video games and other software for the VIC-20 home computer, the Atari 2600 home video game console, and its CompuMate peripheral. Some of their own computers were compatible with the Microsoft MSX or the IBM PC.</systemDescription>
     <systemManufacturer>Spectravideo</systemManufacturer>
     <systemReleaseYear>1983</systemReleaseYear>
+    <systemDescription>Spectravideo International Limited (SVI) was an American computer manufacturer and software house. It was originally called SpectraVision, a company founded by Harry Fox in 1981. The company produced video games and other software for the VIC-20 home computer, the Atari 2600 home video game console, and its CompuMate peripheral. Some of their own computers were compatible with the Microsoft MSX or the IBM PC.</systemDescription>
+    <systemDescription lang="es">Spectravideo International Limited (SVI) fue un fabricante de computadoras y empresa de software estadounidense. Originalmente se llamaba SpectraVision y fue fundada por Harry Fox en 1981. La empresa producía videojuegos y otro software para el ordenador doméstico VIC-20, la consola de videojuegos Atari 2600 y su periférico CompuMate. Algunos de sus ordenadores eran compatibles con Microsoft MSX o IBM PC.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

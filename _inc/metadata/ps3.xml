@@ -1,12 +1,16 @@
 <theme>
   <variables>
     <systemName>PlayStation 3</systemName>
+    <systemManufacturer>Sony</systemManufacturer>
+    <systemReleaseYear>2006</systemReleaseYear>
     <systemDescription>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles. It was first released on November 11, 2006 in Japan, November 17, 2006 in North America, and March 23, 2007 in Europe and Australia. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.
 
 The console was first officially announced at E3 2005, and was released at the end of 2006. It was the first console to use Blu-ray Disc as its primary storage medium. The console was the first PlayStation to integrate social gaming services, including the PlayStation Network, as well as the first to be controllable from a handheld console, through its remote connectivity with PlayStation Portable and PlayStation Vita. In September 2009, the Slim model of the PlayStation 3 was released. It no longer provided the hardware ability to run PS2 games. It was lighter and thinner than the original version, and featured a redesigned logo and marketing design, as well as a minor start-up change in software. A Super Slim variation was then released in late 2012, further refining and redesigning the console.</systemDescription>
-    <systemManufacturer>Sony</systemManufacturer>
-    <systemReleaseYear>2006</systemReleaseYear>
+    <systemDescription lang="es">La PlayStation 3 (PS3) es una consola de videojuegos doméstica desarrollada por Sony Computer Entertainment. Es la sucesora de la PlayStation 2 y forma parte de la marca de consolas PlayStation. Se lanzó por primera vez el 11 de noviembre de 2006 en Japón, el 17 de noviembre de 2006 en Norteamérica y el 23 de marzo de 2007 en Europa y Australia. La PlayStation 3 compitió principalmente contra la Xbox 360 de Microsoft y la Wii de Nintendo como parte de la séptima generación de consolas de videojuegos.
+
+La consola se anunció oficialmente en el E3 de 2005 y se lanzó a finales de 2006. Fue la primera consola en utilizar Blu-ray Disc como medio de almacenamiento principal. Fue la primera PlayStation en integrar servicios de juegos sociales, incluyendo PlayStation Network, así como la primera en ser controlable desde una consola portátil, a través de su conectividad remota con PlayStation Portable y PlayStation Vita. En septiembre de 2009, se lanzó el modelo Slim de la PlayStation 3. Ya no ofrecía la capacidad de hardware para ejecutar juegos de PS2. Era más ligera y delgada que la versión original, con un logotipo y un diseño de marketing rediseñados, así como un pequeño cambio inicial en el software. A finales de 2012 se lanzó una versión Super Slim, que perfeccionó y rediseñó aún más la consola.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>135-172</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

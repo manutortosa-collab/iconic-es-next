@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>IBM PC</systemName>
+    <systemManufacturer>IBM</systemManufacturer>
+    <systemReleaseYear>1981</systemReleaseYear>
     <systemDescription>The IBM Personal Computer (model 5150, commonly known as the IBM PC) is the first microcomputer released in the IBM PC model line and the basis for the IBM PC compatible de facto standard. Released on August 12, 1981, it was created by a team of engineers and designers directed by Don Estridge in Boca Raton, Florida.
 
 The machine was based on open architecture and third-party peripherals. Over time, expansion cards and software technology increased to support it.
 
 The PC had a substantial influence on the personal computer market. The specifications of the IBM PC became one of the most popular computer design standards in the world. The only significant competition it faced from a non-compatible platform throughout the 1980s was from the Apple Macintosh product line. The majority of modern personal computers are distant descendants of the IBM PC.</systemDescription>
-    <systemManufacturer>IBM</systemManufacturer>
-    <systemReleaseYear>1981</systemReleaseYear>
+    <systemDescription lang="es">La computadora personal IBM (modelo 5150, comúnmente conocida como IBM PC) fue la primera microcomputadora lanzada en la línea de modelos IBM PC y la base del estándar de facto de compatibilidad con IBM PC. Lanzada el 12 de agosto de 1981, fue creada por un equipo de ingenieros y diseñadores dirigido por Don Estridge en Boca Ratón, Florida.
+
+La máquina se basaba en una arquitectura abierta y periféricos de terceros. Con el tiempo, las tarjetas de expansión y la tecnología de software se incrementaron para respaldarla.
+
+La PC tuvo una influencia sustancial en el mercado de las computadoras personales. Las especificaciones de la IBM PC se convirtieron en uno de los estándares de diseño de computadoras más populares del mundo. La única competencia significativa a la que se enfrentó, proveniente de una plataforma no compatible a lo largo de la década de 1980, fue la línea de productos Apple Macintosh. La mayoría de las computadoras personales modernas son descendientes lejanos de la IBM PC.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
