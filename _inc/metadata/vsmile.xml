@@ -1,14 +1,20 @@
 <theme>
   <variables>
     <systemName>V.Smile</systemName>
+    <systemManufacturer>VTech</systemManufacturer>
+    <systemReleaseYear>2005</systemReleaseYear>
     <systemDescription>The V.Smile (stylized as V.SMILE TV LEARNING SYSTEM) is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges", to play off the system's educational nature. The graphics are primarily sprite-based. The console is often sold bundled with a particular game, with most of them having a game called Alphabet Park Adventure.
 
 Several variants of the V.Smile console are sold including handheld versions, or models with added functionality such as touch tablet integrated controllers or microphones. The V-Motion is a major variant with its own software lineup that includes motion sensitive controllers, and has Smartriges designed to take advantage of motion-related "active learning". The V-Motion and Smartridges however, are fully backwards compatible with other V.Smile variants and V.Smile Smartridges, and a V-Motion Smartridge can also be played on V.Smile console or handheld, albeit with limited functionality. However, in 2010, the new and old models of the V.Smile were discontinued. VTech still made games for the V.Smile until 2012.
 
 Some key differentiators between systems and the ability to fully utilize all game functions include the options of a microphone, touch tablet, additional joystick port (for 2-player gameplay), stylus-enhanced controller, or motion sensitive game pad (with V-Motion).</systemDescription>
-    <systemManufacturer>VTech</systemManufacturer>
-    <systemReleaseYear>2005</systemReleaseYear>
+  <systemDescription lang="es">La V.Smile (estilizada como V.SMILE TV LEARNING SYSTEM) es una consola de videojuegos educativa doméstica de sexta generación, fabricada y lanzada por VTech. Los títulos están disponibles en cartuchos ROM llamados "Smartridges", para realzar el carácter educativo del sistema. Los gráficos se basan principalmente en sprites. La consola suele venderse con un juego específico, y la mayoría incluye uno llamado Alphabet Park Adventure.
+
+Se venden varias variantes de la consola V.Smile, incluyendo versiones portátiles o modelos con funciones adicionales, como controladores o micrófonos integrados en tabletas táctiles. La V-Motion es una variante importante con su propio software que incluye controladores sensibles al movimiento y Smartridges diseñados para aprovechar el "aprendizaje activo" relacionado con el movimiento. Sin embargo, la V-Motion y los Smartridges son totalmente retrocompatibles con otras variantes de V.Smile y con los Smartridges de V.Smile, y también se puede jugar con un Smartridge de V-Motion en la consola o la consola portátil de V.Smile, aunque con funciones limitadas. Sin embargo, en 2010, los modelos nuevos y antiguos de la V.Smile se descontinuaron. VTech siguió creando juegos para la V.Smile hasta 2012.
+
+Algunos diferenciadores clave entre los sistemas y la posibilidad de aprovechar al máximo todas las funciones del juego incluyen las opciones de micrófono, tableta táctil, puerto adicional para joystick (para dos jugadores), control con lápiz óptico o mando sensible al movimiento (con V-Motion).</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

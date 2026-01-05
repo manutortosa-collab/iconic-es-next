@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Thomson MOTO</systemName>
-    <systemDescription>The Thomson MOTO line of computers were a series of 8-bit computers sold in the 1980s by French electronics company Thomson, which has been nationalized in 1982. The MOTO computers became an integral part of the French Government's plan informatique pour tous (IPT) to make computers widespread throughout France by bringing computers and programming classes to French school children. A number of computer makers, including Apple, were considered before Thomson won the contract.</systemDescription>
     <systemManufacturer>Thomson SA</systemManufacturer>
     <systemReleaseYear>1984</systemReleaseYear>
+    <systemDescription>The Thomson MOTO line of computers were a series of 8-bit computers sold in the 1980s by French electronics company Thomson, which has been nationalized in 1982. The MOTO computers became an integral part of the French Government's plan informatique pour tous (IPT) to make computers widespread throughout France by bringing computers and programming classes to French school children. A number of computer makers, including Apple, were considered before Thomson won the contract.</systemDescription>
+    <systemDescription lang="es">La línea de ordenadores Thomson MOTO consistía en una serie de ordenadores de 8 bits comercializados en la década de 1980 por la empresa francesa de electrónica Thomson, nacionalizada en 1982. Los ordenadores MOTO se convirtieron en parte integral del Plan Informático para Todos (IPT) del gobierno francés para generalizar el uso de ordenadores en toda Francia, llevando computadoras y clases de programación a los escolares franceses. Se consideraron varios fabricantes de ordenadores, entre ellos Apple, antes de que Thomson se adjudicara el contrato.</systemDescription>
     <systemHardwareType>Computer</systemHardwareType>
+    <systemHardwareType lang="es">Ordenador</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

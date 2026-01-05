@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>CreatiVision</systemName>
-    <systemDescription>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the Second generation of video game consoles. It was built by the Finnish company Salora. It cost $295 Australian Dollars. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers. It was discontinue in 1986.</systemDescription>
     <systemManufacturer>VTech</systemManufacturer>
     <systemReleaseYear>1982</systemReleaseYear>
+    <systemDescription>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the Second generation of video game consoles. It was built by the Finnish company Salora. It cost $295 Australian Dollars. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers. It was discontinue in 1986.</systemDescription>
+    <systemDescription lang="es">La Video Technology CreatiVision es una consola híbrida de ordenador y videojuegos domésticos, presentada por VTech en 1981 y lanzada en 1982 durante la segunda generación de consolas de videojuegos. Fue fabricada por la empresa finlandesa Salora. Su precio era de 295 dólares australianos. Esta unidad híbrida era similar en concepto a ordenadores como la APF Imagination Machine, la antigua VideoBrain Family Computer y, en menor medida, a la consola Intellivision y al ordenador Coleco Adam, todos ellos anticipando la tendencia de las consolas de videojuegos a parecerse más a los ordenadores de gama baja. Se discontinuó en 1986.</systemDescription>
     <systemHardwareType>Console</systemHardwareType>
+    <systemHardwareType lang="es">Consola</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

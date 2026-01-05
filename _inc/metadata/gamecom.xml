@@ -1,13 +1,18 @@
 <theme>
   <variables>
     <systemName>Game.com</systemName>
+    <systemManufacturer>Tiger Elec.</systemManufacturer>
+    <systemReleaseYear>1997</systemReleaseYear>
     <systemDescription>The Game.com is a fifth-generation handheld game console released by Tiger Electronics in August 1997. A smaller version, the Game.com Pocket Pro, was released in mid-1999.
 The first version of the Game.com can be connected to a 14.4 kbit/s modem for Internet connectivity, hence its name referencing the top level domain .com.
 
 It was the first video game console to include a touchscreen and the first handheld console to include Internet connectivity.</systemDescription>
-    <systemManufacturer>Tiger Elec.</systemManufacturer>
-    <systemReleaseYear>1997</systemReleaseYear>
+<systemDescription lang="es">Game.com es una consola portátil de quinta generación lanzada por Tiger Electronics en agosto de 1997. Una versión más pequeña, la Game.com Pocket Pro, se lanzó a mediados de 1999.
+La primera versión de Game.com se podía conectar a un módem de 14,4 kbit/s para conectarse a Internet, de ahí su nombre, que hace referencia al dominio de nivel superior .com.
+
+Fue la primera consola de videojuegos en incluir una pantalla táctil y la primera consola portátil en incluir conexión a Internet.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>

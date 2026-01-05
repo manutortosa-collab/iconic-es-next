@@ -1,10 +1,12 @@
 <theme>
   <variables>
     <systemName>Supervision</systemName>
-    <systemDescription>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo's Super Game Boy add-on for the SNES. A full color TV link was also in the works, but because of the Supervision's failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.</systemDescription>
     <systemManufacturer>Watara</systemManufacturer>
     <systemReleaseYear>1992</systemReleaseYear>
+    <systemDescription>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo's Super Game Boy add-on for the SNES. A full color TV link was also in the works, but because of the Supervision's failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.</systemDescription>
+    <systemDescription lang="es">La Watara Supervision, también conocida como QuickShot Supervision en el Reino Unido, es una consola portátil monocromática originaria de Asia, presentada en 1992 como una competencia económica para la Game Boy de Nintendo. Incluía un juego llamado Crystball, similar a Breakout. Una característica única de la Supervision era que podía conectarse a un televisor mediante un cable de enlace. Los juegos reproducidos de esta manera se mostraban en cuatro colores, similar al complemento Super Game Boy de Nintendo para la SNES. También se estaba desarrollando una conexión a un televisor a todo color, pero debido a que la Supervision no logró impresionar a los jugadores, se canceló, junto con los juegos que se estaban desarrollando para ella.</systemDescription>
     <systemHardwareType>Portable</systemHardwareType>
+    <systemHardwareType lang="es">Portátil</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
   </variables>
