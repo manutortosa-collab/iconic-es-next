@@ -4,6 +4,8 @@ Iconi-es-next:
 # Beta 0.4 - Unreleased
 * Apply logo changes to detailed view (fix).
 * Change SegaCD background.
+* Finished all the translations. The theme is now fully available in Spanish.
+  You need to enable the theme metadata in the theme config to have everythihg in spanish.
 
 # Beta 0.3
 * Custom collections and automatic collections got new logos with Spanish
