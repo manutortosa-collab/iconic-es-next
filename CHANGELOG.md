@@ -1,7 +1,7 @@
 Iconi-es-next:
 --------------
 
-# Beta 0.4 - Unreleases
+# Beta 0.4 - Unreleased
 * Apply logo changes to detailed view (fix).
 
 # Beta 0.3
