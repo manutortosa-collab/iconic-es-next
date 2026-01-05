@@ -3,7 +3,7 @@ Iconi-es-next:
 
 # Beta 0.4 - Unreleased
 * Apply logo changes to detailed view (fix).
-* Change SegaCD logo.
+* Change SegaCD background.
 
 # Beta 0.3
 * Custom collections and automatic collections got new logos with Spanish
