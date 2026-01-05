@@ -1,4 +1,4 @@
-Iconi-es-next:
+Iconic-es-next:
 --------------
 
 # Beta 0.3.1
@@ -6,8 +6,6 @@ Iconi-es-next:
 * Change SegaCD background.
 * Finished all the translations. The theme is now fully available in Spanish.
   You need to enable the theme metadata in the theme config to have everythihg in spanish.
-
-# Beta 0.3
 * Custom collections and automatic collections got new logos with Spanish
   translations ones too and translated metadata.
 * Updated some backgrounds to add more overlays.
