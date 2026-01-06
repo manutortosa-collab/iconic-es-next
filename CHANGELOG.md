@@ -7,6 +7,7 @@ Iconic-es-next:
 * More controllers and backgrounds for PORTS.
 * Reworked some logos, at the end we want to keep the coherence but
   some logos had an outline too bold.
+* Sonic Collection resources added.
 
 # Beta 0.3.1
 * Apply logo changes to detailed view (fix).
