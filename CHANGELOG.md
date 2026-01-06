@@ -1,6 +1,13 @@
 Iconic-es-next:
 --------------
 
+# Beta 1.0 - UNRELEASED
+* All base automatic collections logos added.
+* Get rid-off PNG support for logos.
+* More controllers and backgrounds for PORTS.
+* Reworked some logos, at the end we want to keep the coherence but
+  some logos had an outline too bold.
+
 # Beta 0.3.1
 * Apply logo changes to detailed view (fix).
 * Change SegaCD background.
