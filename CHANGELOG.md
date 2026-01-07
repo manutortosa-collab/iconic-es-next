@@ -8,6 +8,8 @@ Iconic-es-next:
 * Reworked some logos, at the end we want to keep the coherence but
   some logos had an outline too bold.
 * Sonic Collection resources added.
+* Add the font we use to create the automatic collections logos
+  as default font for system name logo if no logo is available.
 
 # Beta 0.3.1
 * Apply logo changes to detailed view (fix).
