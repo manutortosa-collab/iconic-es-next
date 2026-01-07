@@ -54,7 +54,7 @@ It displays a mixin of the game images, above the game metadata.
             <alignment>center</alignment>
             <verticalAlignment>center</verticalAlignment>
             <origin>0.5 0.5</origin>
-            <pos>0.2495 0.895</pos>
+            <pos>0.2500 0.895</pos>
             <fontSize>0.036</fontSize>
             <glowColor>fafafaff</glowColor>
             <multiLine>true</multiLine>
@@ -62,7 +62,7 @@ It displays a mixin of the game images, above the game metadata.
             <size>0.3 0.135</size>
             <padding>0.04 0 0.04 0</padding>
             <glowOffset>0 0</glowOffset>
-            <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+            <fontPath>./_inc/fonts/SF-Espresso-Shack-Bold-Italic.ttf</fontPath>
             <color>111111ff</color>
         </text>
         <image name="md_image">

@@ -69,7 +69,7 @@ vertically on the left side of the screen.
                         <size>1 1</size>
                         <padding>0.04 0 0.04 0</padding>
                         <glowOffset>0 0</glowOffset>
-                        <fontPath>./_inc/fonts/ChangaOne-Italic.ttf</fontPath>
+                        <fontPath>./_inc/fonts/SF-Espresso-Shack-Bold-Italic.ttf</fontPath>
                         <color>111111ff</color>
                     </text>
                 </container>
