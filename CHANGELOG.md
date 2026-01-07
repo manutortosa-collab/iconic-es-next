@@ -9,6 +9,7 @@ Iconic-es-next:
   some logos had an outline too bold.
 * New collection: Sonic.
 * New collection: Mega Man (Rockman).
+* New collection: Mortal Kombat.
 * Add the font we use to create the automatic collections logos
   as default font for system name logo if no logo is available.
 
