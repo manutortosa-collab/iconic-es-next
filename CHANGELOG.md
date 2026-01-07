@@ -7,7 +7,8 @@ Iconic-es-next:
 * More controllers and backgrounds for PORTS.
 * Reworked some logos, at the end we want to keep the coherence but
   some logos had an outline too bold.
-* Sonic Collection resources added.
+* New collection: Sonic.
+* New collection: Mega Man (Rockman).
 * Add the font we use to create the automatic collections logos
   as default font for system name logo if no logo is available.
 
