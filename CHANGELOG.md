@@ -5,13 +5,14 @@ Iconic-es-next:
 * All base automatic collections logos added.
 * Get rid-off PNG support for logos.
 * More controllers and backgrounds for PORTS.
-* Reworked some logos, at the end we want to keep the coherence but
-  some logos had an outline too bold.
+* Complete logos rework, with many new SVG logos.
 * New collection: Sonic.
 * New collection: Mega Man (Rockman).
 * New collection: Mortal Kombat.
-* Add the font we use to create the automatic collections logos
-  as default font for system name logo if no logo is available.
+* New system: Casio Loopy.
+* New system: Enterprise.
+* Controllers status icons in carrousel 🎮.
+* Add the font we use to create the automatic collections logos as default font for system name logo if no logo is available.
 
 # Beta 0.3.1
 * Apply logo changes to detailed view (fix).
