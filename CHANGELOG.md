@@ -1,7 +1,7 @@
 Iconic-es-next:
 --------------
 
-# Beta 1.0 - UNRELEASED
+# 1.0 - UNRELEASED
 * All base automatic collections logos added.
 * Get rid-off PNG support for logos.
 * More controllers and backgrounds for PORTS.
