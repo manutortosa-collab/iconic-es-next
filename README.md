@@ -27,7 +27,7 @@
 
 ## Installation
 
-You can [download this theme](https://github.com/manutortosa-collab/iconic-es-next/archive/refs/heads/main.zip) and uncompress it the appropriate "themes" folder of your distribution.
+You can [download this theme](https://github.com/manutortosa-collab/iconic-es-next/archive/refs/heads/Next.zip) and uncompress it the appropriate "themes" folder of your distribution.
 
 If you find any bugs or have suggestions for improvements, please feel free to [open an issue](https://github.com/manutortosa-collab/iconic-es-next/issues/new/choose).
 
