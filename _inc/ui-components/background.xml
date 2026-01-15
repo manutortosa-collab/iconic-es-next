@@ -11,7 +11,6 @@ listing the games of a system, the background is slightly desaturated.
             <zIndex>0</zIndex>
             <default>./_inc/backgrounds/_default.webp</default>
             <path>./_inc/backgrounds/${system.theme}.webp</path>
-            <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.png</path>
             <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/backgrounds/${system.theme}.webp</path>
             <origin>0 0</origin>
             <size>${backgroundWidthScale} 1</size>
@@ -37,8 +36,12 @@ listing the games of a system, the background is slightly desaturated.
             <pos>${backgroundHorizontalPos} 0</pos>
             <linearSmooth>true</linearSmooth>
             <path>./_inc/overlays/${system.theme}.webp</path>
-            <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/overlays/${system.theme}.png</path>
             <path ifSubset="distribution:batocera|retrobat|rocknix">${themeCustomizationsPath}/overlays/${system.theme}.webp</path>
+            <visible>false</visible>
+            <visible>
+                   !exists("${themeCustomizationsPath}/backgrounds/" + {system:theme} + ".webp")
+                || exists("${themeCustomizationsPath}/overlays/" + {system:theme} + ".webp")
+            </visible>
         </image>
     </view>
     <!-- Override for gamelist views: we add saturation and overlay on the background. -->
