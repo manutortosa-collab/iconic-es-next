@@ -1,10 +1,10 @@
 Iconic-es-next:
 --------------
 
-# 1.0 - UNRELEASED
-* All base automatic collections logos added.
+# 1.0
+* All base automatic collections logos,backgrounds and controllers added.
 * Get rid-off PNG support for logos.
-* More controllers and backgrounds for PORTS.
+* All controllers, logos and backgrounds for PORTS.
 * Complete logos rework, with many new SVG logos.
 * New collection: Sonic.
 * New collection: Mega Man (Rockman).
