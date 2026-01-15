@@ -78,8 +78,8 @@ Custom overlays can be added to help make images pop.
 * The images must be of 1920x1080 resolution.
 * Copy your custom overlay images to the `overlays` folder previously created.
 * They should be named `${system.theme}.webp`
-* As above, the `${system.theme}` variable corresponds to the system you are looking to override. This also applies to the transparent default overlay.
-* If a given system image is not found, then it should fallback to the fully transparent overlay.
+* As above, the `${system.theme}` variable corresponds to the system you are looking to override.
+* You can also provide an alternative overlay without replacing the theme default background.
 
 ### Multilanguage support
 
