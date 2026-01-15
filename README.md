@@ -67,9 +67,7 @@ The artwork used on the system view can be customized with your own images.
 
 * Copy your custom background images to the `backgrounds` folder previously created.
 * The images must be of 1920x1080 resolution.
-* They should be named either (in order of precedence):
-    - `${system.theme}.webp`
-    - `${system.theme}.png`
+* They should be named `${system.theme}.webp`
 * The `${system.theme}` variable corresponds to the system you are looking to override. For example if you wanted to override the artwork for `snes` you would create an image called `snes.webp` in the backgrounds folder.
 * If a given system image is not found, then the built-in images from the theme will be used as a fallback. This allows you to customize only the images you want and still have images displayed for all systems.
 
@@ -77,12 +75,9 @@ The artwork used on the system view can be customized with your own images.
 
 Custom overlays can be added to help make images pop.
 
-* If you do not have an overlay for a system, you must use a fully transparent image (you can use [this one](_inc/other/fully-transparent-overlay.webp)).
 * The images must be of 1920x1080 resolution.
-* Copy your custom overlay images (or the transparent ones) to the `overlays` folder previously created.
-* They should be named either (in order of precedence):
-    - `${system.theme}.webp`
-    - `${system.theme}.png`
+* Copy your custom overlay images to the `overlays` folder previously created.
+* They should be named `${system.theme}.webp`
 * As above, the `${system.theme}` variable corresponds to the system you are looking to override. This also applies to the transparent default overlay.
 * If a given system image is not found, then it should fallback to the fully transparent overlay.
 
