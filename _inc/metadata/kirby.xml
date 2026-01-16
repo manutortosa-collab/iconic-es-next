@@ -1,0 +1,65 @@
+<theme>
+  <variables>
+    <systemName>Kirby</systemName>
+    <systemDescription>View and play the Kirby Games in your collection.</systemDescription>
+    <systemManufacturer>HAL Laboratory</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>شاهد والعب ألعاب واريو في مجموعتك</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Kirby igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga els jocs de Kirby de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Kirby-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Kirby (星のカービィ, lit. Kirby de las estrellas) es una serie de videojuegos de acción y plataformas desarrollada por HAL Laboratory y publicada por Nintendo. La mayoría de los juegos de la serie son plataformas de desplazamiento lateral con elementos de resolución de rompecabezas y lucha. Kirby tiene la habilidad de inhalar enemigos y objetos con la boca, escupiéndolos como proyectiles o comiéndolos. Si inhala a ciertos enemigos, puede obtener sus poderes o propiedades, que se manifiestan como una nueva arma o potenciador llamado Habilidad de Copia. La serie está pensada para que sea fácil de aprender y jugar incluso para personas no familiarizadas con los juegos de acción, al mismo tiempo que ofrece un desafío y una profundidad adicionales para que los jugadores más experimentados regresen.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez y jouez aux jeux Wario de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Wario igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi di Wario nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>あなたのコレクションにあるワリオのゲームを観てプレイしましょう。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>저희가 엄선한 와리오 게임들을 감상하고 플레이해 보세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de Wario-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry z serii Wario z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos de Wario da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile Wario din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте игры серии Wario из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Wario игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela Wario-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>观看并畅玩您收藏的瓦里奥游戏。</systemDescription>
+  </variables>
+</theme>
