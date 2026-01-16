@@ -7,6 +7,7 @@ Iconic-es-next:
   will handle wether to show the overlay or not as necessary.
 * Support for PNG backgrounds dropped, only .WEBP is now accepted. You can install the gThumb
   FlatPak in Batocera if you need to convert your backgrounds to .WEBP easily.
+* New collection: Wario.
 
 # 1.0
 * All base automatic collections logos,backgrounds and controllers added.
