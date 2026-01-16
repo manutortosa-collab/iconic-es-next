@@ -1,0 +1,20 @@
+<theme>
+  <variables>
+    <systemName>Wario</systemName>
+    <systemManufacturer>Nintendo</systemManufacturer>
+    <systemReleaseYear>Various</systemReleaseYear>
+    <systemReleaseYear lang="es">Varios</systemReleaseYear>
+
+    <systemDescription>Wario is a character in Nintendo's Mario franchise that was designed as an antithesis of Mario. Wario first appeared as the main antagonist and final boss in the 1992 Game Boy game Super Mario Land 2: 6 Golden Coins. His name is a portmanteau of the name Mario and the Japanese word warui (悪い), meaning "bad". He is usually portrayed as a selfish and greedy treasure hunter who, in karmic irony, routinely loses his spoils by adventure's end. Hiroji Kiyotake designed Wario, and Charles Martinet voiced the character from 1993 to 2023.
+
+Wario is also the main protagonist and antihero of the Wario Land platformer series and the WarioWare party game series. He makes regular appearances as a playable character in Mario spin-offs and other video game series, including Mario Sports games, Mario Kart, Mario Party, in which he is typically paired with the character Waluigi to form a comedy duo that rivals the partnership of Mario and his brother, Luigi. Wario has also been featured in several entries of the fighting game series Super Smash Bros.</systemDescription>
+    <systemDescription lang="es">Wario (ワリオ?) es un personaje ficticio de los videojuegos de Nintendo que originalmente fue diseñado como archirrival de Mario. Apareció por primera vez en Super Mario Land 2: 6 Golden Coins (1992), como el principal antagonista y jefe final. Su nombre es una mezcla del nombre de Mario y la palabra japonesa warui (悪 い), que significa "malo". Wario fue diseñado por Hiroji Kiyotake, y fue interpretado por Charles Martinet desde 1993 hasta 2023.
+
+Wario se ha convertido en el protagonista y antihéroe de las series de videojuegos Wario Land y WarioWare, abarcando los mercados de consolas de mesa y portátiles. Además de las apariciones en spin-offs de la franquicia de Mario, aparece en cameos para Kirby Super Star Ultra, Densetsu no Stafy 3 y Pilotwings 64. También ha aparecido en otros medios, como la novela gráfica de Super Mario Adventures. El personaje ha tenido una recepción crítica en gran medida positiva y se ha convertido en una mascota bien establecida para Nintendo.</systemDescription>
+    
+    <systemHardwareType>Custom Collection</systemHardwareType>
+    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
+    <systemCoverSize>1-1</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
