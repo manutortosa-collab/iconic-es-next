@@ -1,5 +1,12 @@
 Iconic-es-next:
 --------------
+# 1.1 (unreleased).
+* You can now provide custom backgrounds and the system handles automatically the overlay,
+  providing an transparent overlay is not necessary anymore. You can either provide a
+  background, background + overlay or even a custom overlay without background, the system
+  will handle wether to show the overlay or not as necessary.
+* Support for PNG backgrounds dropped, only .WEBP is now accepted. You can install the gThumb
+  FlatPak in Batocera if you need to convert your backgrounds to .WEBP easily.
 
 # 1.0
 * All base automatic collections logos,backgrounds and controllers added.
