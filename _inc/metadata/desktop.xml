@@ -2,10 +2,64 @@
   <variables>
     <systemName>Desktop Shorcuts</systemName>
     <systemDescription>View and run your Desktop shortcuts</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemHardwareType>Folder</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-folder}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>عرض اختصارات سطح المكتب وتشغيلها</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i pokrenite svoje prečice radne površine</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Veure i executar les dreceres d'escriptori</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Desktop-Verknüpfungen anzeigen und ausführen</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y ejecutar los accesos directos del Escritorio</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Afficher et exécuter les raccourcis de votre bureau</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i pokrenite prečace na radnoj površini</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizzare ed eseguire i collegamenti al desktop</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>デスクトップショートカットの表示と実行</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>데스크톱 바로 가기 보기 및 실행</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Uw bureaubladsnelkoppelingen weergeven en uitvoeren</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Wyświetlanie i uruchamianie skrótów na pulpicie</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Exibir e executar os atalhos da área de trabalho</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și rulați comenzile rapide de pe desktop</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просмотр и запуск ярлыков на рабочем столе</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Погледајте и покрените пречице за радну површину</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och kör dina genvägar på skrivbordet</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看和运行桌面快捷方式</systemDescription>
   </variables>
 </theme>

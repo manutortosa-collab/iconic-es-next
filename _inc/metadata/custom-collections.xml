@@ -1,16 +1,65 @@
 <theme>
   <variables>
     <systemName>Custom Collections</systemName>
-    <systemName lang="es">Colecciones personalizadas</systemName>
     <systemDescription>Organize your games into custom collections.</systemDescription>
-    <systemDescription lang="es">Organiza tus juegos en colecciones personalizadas.</systemDescription>
-    <systemManufacturer>Various</systemManufacturer>
-    <systemManufacturer lang="es">Varios</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemReleaseYear lang="es">Varios</systemReleaseYear>
-    <systemHardwareType>Custom Collection</systemHardwareType>
-    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
+    <systemManufacturer>${i18n.various}</systemManufacturer>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>نظّم ألعابك في مجموعات مخصصة.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Organizirajte svoje igre u prilagođene kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Organitzeu els vostres jocs en col·leccions personalitzades.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Organisieren Sie Ihre Spiele in benutzerdefinierten Sammlungen.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Organiza tus juegos en colecciones personalizadas.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Organisez vos jeux dans des collections personnalisées.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Organizirajte svoje igre u prilagođene kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Organizzate i vostri giochi in collezioni personalizzate.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>ゲームをカスタムコレクションに整理。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>게임을 사용자 지정 컬렉션으로 정리하세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Organiseer je games in aangepaste collecties.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Organizuj swoje gry w niestandardowe kolekcje.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Organize seus jogos em coleções personalizadas.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Organizați-vă jocurile în colecții personalizate.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Организуйте игры в пользовательские коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Организујте своје игре у прилагођене колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Organisera dina spel i anpassade samlingar.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>将游戏整理成自定义收藏。</systemDescription>
   </variables>
 </theme>
