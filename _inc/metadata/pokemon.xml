@@ -1,16 +1,65 @@
 <theme>
   <variables>
     <systemName>Pokémon</systemName>
+    <systemDescription>View and play the Pokémon Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemReleaseYear lang="es">Varios</systemReleaseYear>
-    <systemDescription>Pokémon is a Japanese series of creature collector role-playing video games developed by Game Freak and published by Nintendo and The Pokémon Company under the Pokémon franchise. It was created by Satoshi Tajiri with assistance from Ken Sugimori. The first games, Pocket Monsters Red and Green, were released in 1996 in Japan for the Game Boy, later released outside of Japan as Pokémon Red Version and Blue Version. The main series of role-playing video games (RPGs), referred as the "core series" by their developers,[1][2][3] has continued on each generation of Nintendo's handhelds. The most recently released core series game, Pokémon Legends: Z-A was released on October 16, 2025 for the Nintendo Switch.</systemDescription>
-    <systemDescription lang="es">La franquicia de videojuegos de Pokémon, también referida como un videojuego llamado Pokémon, son videojuegos de rol desarrollados principalmente por Game Freak y vendido para videoconsolas portátiles de Nintendo.
-
-La serie se divide en generaciones las cuales son los grupos de videojuegos lanzados en un cierto período de tiempo y que comparten una serie de características similares, concretamente los personajes, las criaturas (Pokémon) y la región donde se sucede la historia. Estas generaciones suelen corresponderse con las generaciones de las consolas. La aparición sucesiva de generaciones suele tener como consecuencia la publicación de nuevas entregas de diversos productos derivados de los videojuegos, como la serie de anime.</systemDescription>
-    <systemHardwareType>Custom Collection</systemHardwareType>
-    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>عرض ولعب ألعاب بوكيمون الموجودة في مجموعتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Pokémon igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga als jocs de Pokémon de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Pokémon-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y jugar los juegos de Pokémon de tu colección.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez et jouez aux jeux Pokémon de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Pokémon igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi di Pokémon nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コレクションにあるポケモンのゲームを表示してプレイします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>컬렉션에 있는 포켓몬 게임을 보고 플레이하세요.</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de Pokémon-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry Pokémon z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos Pokémon da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile Pokémon din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте в игры Pokémon из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Pokémon игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela Pokémon-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并游玩您收藏中的宝可梦系列游戏。</systemDescription>
   </variables>
 </theme>

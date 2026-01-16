@@ -1,14 +1,65 @@
 <theme>
   <variables>
     <systemName>Super Mario</systemName>
+    <systemDescription>View and play the Mario Games in your collection.</systemDescription>
     <systemManufacturer>Nintendo</systemManufacturer>
-    <systemReleaseYear>Various</systemReleaseYear>
-    <systemReleaseYear lang="es">Varios</systemReleaseYear>
-    <systemDescription>Super Mario (スーパーマリオ) (also known as Super Mario Bros. and Mario) is a platform game series developed and published by Nintendo and starring their mascot, Mario. The series was created by Japanese game designer Shigeru Miyamoto and is the flagship series of the greater Mario franchise. At least one Super Mario game has been released for every major Nintendo video game console. A limited number of Super Mario games have also released on non-Nintendo gaming platforms.</systemDescription>
-    <systemDescription lang="es">Super Mario (スーパーマリオ) (también conocido como Super Mario Bros. y Mario) es una serie de videojuegos de plataformas creada por Nintendo protagonizada por su mascota, Mario. Es la serie central de la gran franquicia de Mario. Se ha lanzado al menos un juego de Super Mario para todas las principales consolas de videojuegos de Nintendo. Sin embargo, también se han lanzado varios videojuegos de Super Mario en plataformas de juegos que no son de Nintendo. Hay más de 20 juegos de la serie.</systemDescription>
-    <systemHardwareType>Custom Collection</systemHardwareType>
-    <systemHardwareType lang="es">Colección personalizada</systemHardwareType>
+    <systemReleaseYear>${i18n.various}</systemReleaseYear>
+    <systemHardwareType>${i18n.custom-collection}</systemHardwareType>
     <systemCoverSize>1-1</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>
+  </variables>
+  <variables lang="ar">
+    <systemDescription>عرض ولعب ألعاب ماريو الموجودة في مجموعتك.</systemDescription>
+  </variables>
+  <variables lang="bs">
+    <systemDescription>Pogledajte i igrajte Mario igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="ca">
+    <systemDescription>Visualitza i juga els jocs de Mario de la teva col·lecció.</systemDescription>
+  </variables>
+  <variables lang="de">
+    <systemDescription>Zeige und spiele die Mario-Spiele in deiner Sammlung.</systemDescription>
+  </variables>
+  <variables lang="es">
+    <systemDescription>Ver y jugar los juegos de Mario de tu colección.</systemDescription>
+  </variables>
+  <variables lang="fr">
+    <systemDescription>Consultez y jouez aux jeux Mario de votre collection.</systemDescription>
+  </variables>
+  <variables lang="hr">
+    <systemDescription>Pogledajte i igrajte Mario igre iz vaše kolekcije.</systemDescription>
+  </variables>
+  <variables lang="it">
+    <systemDescription>Visualizza e gioca ai giochi di Mario nella tua collezione.</systemDescription>
+  </variables>
+  <variables lang="ja">
+    <systemDescription>コレクションにあるマリオのゲームを表示してプレイします。</systemDescription>
+  </variables>
+  <variables lang="ko">
+    <systemDescription>컬렉션에 있는 마리오 게임을 보고 플레이하세요。</systemDescription>
+  </variables>
+  <variables lang="nl">
+    <systemDescription>Bekijk en speel de Mario-spellen in je collectie.</systemDescription>
+  </variables>
+  <variables lang="pl">
+    <systemDescription>Przeglądaj i graj w gry z serii Mario z twojej kolekcji.</systemDescription>
+  </variables>
+  <variables lang="pt">
+    <systemDescription>Veja e jogue os jogos de Mario da sua coleção.</systemDescription>
+  </variables>
+  <variables lang="ro">
+    <systemDescription>Vizualizați și jucați jocurile Mario din colecția dvs.</systemDescription>
+  </variables>
+  <variables lang="ru">
+    <systemDescription>Просматривайте и играйте игры серии Mario из вашей коллекции.</systemDescription>
+  </variables>
+  <variables lang="sr">
+    <systemDescription>Прегледајте и играјте Mario игре из ваше колекције.</systemDescription>
+  </variables>
+  <variables lang="sv">
+    <systemDescription>Visa och spela Mario-spelen i din samling.</systemDescription>
+  </variables>
+  <variables lang="zh">
+    <systemDescription>查看并游玩您收藏中的马里奥系列游戏。</systemDescription>
   </variables>
 </theme>
