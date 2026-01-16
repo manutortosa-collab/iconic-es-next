@@ -192,7 +192,7 @@ defined in "theme-config.xml". Therefore, it must be included before any other o
     <variables lang="es">
         <systemDescription>Ver y jugar a ${system.fullName}.</systemDescription>
         <i18n.aspect-ratio>Relación de aspecto</i18n.aspect-ratio>
-        <i18n.automatic>Automaticó</i18n.automatic>
+        <i18n.automatic>Automático</i18n.automatic>
         <i18n.color-scheme>Esquema de color</i18n.color-scheme>
         <i18n.light>Claro</i18n.light>
         <i18n.dark>Oscuro</i18n.dark>
