@@ -1,6 +1,6 @@
 <div align="center">
 
-# Iconic Next - Development branch of Iconis-ES
+# Iconic Next - Development branch of Iconic-ES
 
 ![System Carousel Demo](_preview/systems-carousel-animation.gif)
 
