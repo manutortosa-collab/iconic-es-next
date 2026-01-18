@@ -20,6 +20,7 @@ Iconic-es-next:
 * New collection: Mortal Kombat.
 * New system: Casio Loopy.
 * New system: Enterprise.
+* New system: NEC PC-60.
 * Controllers status icons in carrousel 🎮.
 * Add the font we use to create the automatic collections logos as default font for system name logo if no logo is available.
 
