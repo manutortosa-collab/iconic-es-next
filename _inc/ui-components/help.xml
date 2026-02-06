@@ -17,11 +17,12 @@
   </view>
   <!--
         The position is changed in "system" view to avoid overlapping with the system panel info
-        (only if the resolution is wide enough to allow it).
+        (only if the resolution is wide enough to allow it and we are not using RetroBat).
     -->
   <view name="system">
     <helpsystem name="help">
       <pos ifSubset="aspect-ratio:16-9|16-9-auto|16-10|16-10-auto">0.48 0.967</pos>
+      <pos ifSubset="distribution:retrobat">0.01 0.967</pos>
     </helpsystem>
   </view>
 </theme>
